@@ -1,1 +1,1 @@
-# tensoes_deformacoes
+# Tensões e Deformações em Geologia
